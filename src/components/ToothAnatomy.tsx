@@ -229,7 +229,7 @@ export const ToothAnatomy: React.FC = () => {
             {renderMode === 'render' ? (
               <div className="w-full h-[340px] sm:h-[400px] relative flex items-center justify-center select-none overflow-hidden rounded-xl bg-gradient-to-b from-[#EFF5F9]/60 to-[#EBF2F7]/40">
                 <img
-                  src="/src/assets/images/chatgpt_tooth_full.png"
+                  src="/src/images/chatgpt_tooth_full.png"
                   alt="Cinematic 3D render of molar tooth anatomy showing enamel, dentin, pulp, and roots"
                   className="w-full h-full object-contain mix-blend-multiply transition-transform duration-700 hover:scale-[1.02]"
                 />

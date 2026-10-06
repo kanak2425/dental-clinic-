@@ -34,7 +34,7 @@ export const WhyJoanSection: React.FC<WhyJoanSectionProps> = ({ onOpenBooking })
               {/* Joan Portrait Card */}
               <div className="rounded-3xl overflow-hidden border border-stone-200 shadow-sm bg-white">
                 <img
-                  src="/src/assets/images/joan_andrews_portrait_1791314448633.jpg"
+                  src="/src/images/joan_andrews_portrait_1791314448633.jpg"
                   alt="Joan Andrews, experienced denturist in St. John's, NL"
                   className="w-full aspect-3/4 object-cover object-top"
                   loading="lazy"

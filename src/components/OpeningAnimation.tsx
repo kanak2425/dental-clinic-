@@ -332,7 +332,7 @@ export const OpeningAnimation: React.FC<OpeningAnimationProps> = ({ onComplete, 
             }}
           >
             <img
-              src="/src/assets/images/chatgpt_tooth_full.png"
+              src="/src/images/chatgpt_tooth_full.png"
               alt="Anatomical cross section of molar showing enamel, dentin, pulp, nerves, blood vessels and roots"
               className="w-full h-full object-contain pointer-events-none"
               style={{

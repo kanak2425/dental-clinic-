@@ -125,7 +125,7 @@ export const InteractiveServicesTooth: React.FC<InteractiveServicesToothProps> =
             <div className="relative w-full max-w-sm aspect-square flex items-center justify-center p-2">
               {/* Central Realistic 3D Tooth */}
               <img
-                src="/src/assets/images/chatgpt_tooth_full.png"
+                src="/src/images/chatgpt_tooth_full.png"
                 alt="Interactive anatomical molar showing clinical denture focus zones"
                 className="w-full h-full object-contain mix-blend-multiply transition-transform duration-500"
               />

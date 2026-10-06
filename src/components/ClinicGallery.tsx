@@ -21,7 +21,7 @@ export const CLINIC_PHOTOS: ClinicPhoto[] = [
   },
   {
     id: 'operatory',
-    src: '/src/assets/images/clinic_operatory_1.jpg',
+    src: '/src/images/clinic_operatory_1.jpg',
     title: 'Private Operatory & Fitting Suite',
     subtitle: 'Chairside Patient Care',
     description: 'Comfortable patient chair, full vanity mirror, and sanitized operatory tailored for private consultations and fitting evaluations.',
